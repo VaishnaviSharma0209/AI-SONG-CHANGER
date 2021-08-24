@@ -1,0 +1,72 @@
+.divsong{
+    float: top;
+}
+
+#song {
+    background-color: white;
+    border:2px solid springgreen ;
+    width: 200px;
+    color: #010101;
+    }
+
+   
+
+#header{
+    font-size: 20px;
+    background-color: springgreen;
+    width:100%;
+    margin:0px;
+    border:10px solid springgreen;
+    border-radius: 20px;
+    color: white;
+}
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px dashed #dbab4c;
+    margin-top: 200px;
+}
+.note{
+    padding: 10px;
+    font-size: 15px;
+    background-color:white ;
+    color: #dbab4c;
+    border-radius: 20px;
+}.divsong{
+    float: top;
+}
+
+#song {
+    background-color: white;
+    border:2px solid palevioletred ;
+    width: 200px;
+    color: #010101;
+    }
+
+   
+
+#header{
+    font-size: 40px;
+    background-color: springgreen;
+    width:100%;
+    margin:0px;
+    border:10px solid palevioletred;
+    color: white;
+}
+body{
+    background-size:repeat;
+}
+
+canvas{
+    border: 5px ridge palevioletred;
+    margin-top: 200px;
+}
+.note{
+    padding: 10px;
+    font-size: 15px;
+    background-color:white ;
+    color: palevioletred;
+    border-radius: 20px;
+}
